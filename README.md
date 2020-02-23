@@ -1,1 +1,1 @@
-https://github.com/tonidroid/rsschool-cv.git
+https://tonidroid.github.io/rsschool-cv/cv
