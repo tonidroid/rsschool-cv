@@ -14,17 +14,14 @@ There are 3 small projects on github.
 
 4. Java, Kotlin, some interested in Python.
 
-5-6. 
-*https://github.com/hype18/Enotes.git*
+5-6. *https://github.com/hype18/Enotes.git*
 
 Lost access to old git account But there are saved projects on disk
-
 *https://yadi.sk/d/QGh0UkeMK6mkkg*
 
 Used retrofit, and accuweather API
 
-7.
- Graduate of the Belarusian State Academy of Communications in 2019. Specialty "Software for telecommunication networks"
+7.Graduate of the Belarusian State Academy of Communications in 2019. Specialty "Software for telecommunication networks"
  Now second-year student of the Belarusian State Academy of Communications at the highest level.
 
 8. Only at school and university. A2 level if believe to online testing=)
