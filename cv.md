@@ -17,3 +17,5 @@ I began to study Java with Shildt’s book, Java 8. A Complete Guide. Now I'm st
  Now second-year student of the Belarusian State Academy of Communications at the highest level.
 
 8. Only at school and university. A2 level if believe to online testing=)
+
+I have some problems with cv.md editing. In preview it looks not same when u open link.
